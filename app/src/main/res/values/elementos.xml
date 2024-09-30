@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="produtos">
+        <item>Coca cola</item>
+        <item>Guarana</item>
+        <item>H20H</item>
+        <item>Agua</item>
+    </string-array>
+</resources>
